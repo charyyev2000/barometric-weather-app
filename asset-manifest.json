@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/barometric-weather-app%20/static/css/main.4e5c8fa9.chunk.css",
+    "main.js": "/barometric-weather-app%20/static/js/main.850cba2e.chunk.js",
+    "main.js.map": "/barometric-weather-app%20/static/js/main.850cba2e.chunk.js.map",
+    "runtime-main.js": "/barometric-weather-app%20/static/js/runtime-main.51f3f8ed.js",
+    "runtime-main.js.map": "/barometric-weather-app%20/static/js/runtime-main.51f3f8ed.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/barometric-weather-app%20/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.87855795.chunk.js": "/barometric-weather-app%20/static/js/2.87855795.chunk.js",
+    "static/js/2.87855795.chunk.js.map": "/barometric-weather-app%20/static/js/2.87855795.chunk.js.map",
+    "index.html": "/barometric-weather-app%20/index.html",
+    "precache-manifest.63358d0c6964acf3ed23a0a9b664d2e1.js": "/barometric-weather-app%20/precache-manifest.63358d0c6964acf3ed23a0a9b664d2e1.js",
+    "service-worker.js": "/barometric-weather-app%20/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/barometric-weather-app%20/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.4e5c8fa9.chunk.css.map": "/barometric-weather-app%20/static/css/main.4e5c8fa9.chunk.css.map",
+    "static/js/2.87855795.chunk.js.LICENSE.txt": "/barometric-weather-app%20/static/js/2.87855795.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.min.css": "/barometric-weather-app%20/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f3f8ed.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.87855795.chunk.js",
+    "static/css/main.4e5c8fa9.chunk.css",
+    "static/js/main.850cba2e.chunk.js"
+  ]
+}
